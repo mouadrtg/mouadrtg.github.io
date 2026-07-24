@@ -1,24 +1,31 @@
 {
-    "ads" : [
-        {
-            "activate_ads" : "true",
-            
-            "network" : "is",
-            
-            "one_signal" : "6c69e516-276a-460e-908e-cd1a86911e1f",
-           
-            "unity_game_id": "0000000000",
-            "unity_ban": "0000000000",
-            "unity_rewarded": "0000000000",
-            
-            "facebook_ban": "3301441646844433_3301448983510366",
-            "facebook_int": "3301441646844433_3301449103510354",
-            
-            "admob_ban": "ca-app-pub-5067909383194603/8467024986",
-            "admob_int": "ca-app-pub-5067909383194603/1378872454",
-            
-            "ironsource_key": "14b2fdee1"
-          
-        }
-    ]
+  "adsEnabled": true,
+  "provider": "admob",
+
+  "admob": {
+    "appOpen": {
+      "enabled": true,
+      "adUnitIdAndroid": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
+      "adUnitIdIOS": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx"
+    },
+
+    "banner": {
+      "enabled": true,
+      "adUnitIdAndroid": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
+      "adUnitIdIOS": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx"
+    },
+
+    "interstitial": {
+      "enabled": true,
+      "adUnitIdAndroid": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
+      "adUnitIdIOS": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
+      "showEvery": 5
+    },
+
+    "rewarded": {
+      "enabled": false,
+      "adUnitIdAndroid": "",
+      "adUnitIdIOS": ""
+    }
+  }
 }
