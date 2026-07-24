@@ -1,5 +1,5 @@
 {
-  "adsEnabled": true,
+  "adsEnabled": false,
   "provider": "admob",
 
   "admob": {
