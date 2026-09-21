@@ -1,0 +1,10 @@
+{
+  "button_labels": {
+    "pass": "Pass",
+    "chat": "Chat",
+    "like": "Like",
+    "discover": "Discover",
+    "gallery": "Gallery",
+    "messages": "Messages"
+  }
+}
