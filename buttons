@@ -1,7 +1,7 @@
 {
   "buttons": {
     "pass": "Pass",
-    "chat": "Comment",
+    "Comment": "Comment",
     "like": "Like",
     "discover": "Discover",
     "gallery": "Gallery",
