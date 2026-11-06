@@ -1,29 +1,28 @@
 {
-  "adsEnabled": false,
-  "provider": "admob",
+  "adsEnabled": "OFF",
 
   "admob": {
     "appOpen": {
-      "enabled": true,
+      "enabled": "ON",
       "adUnitIdAndroid": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
       "adUnitIdIOS": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx"
     },
 
     "banner": {
-      "enabled": true,
+      "enabled": "ON",
       "adUnitIdAndroid": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
       "adUnitIdIOS": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx"
     },
 
     "interstitial": {
-      "enabled": true,
+      "enabled": "ON",
       "adUnitIdAndroid": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
       "adUnitIdIOS": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
       "showEvery": 5
     },
 
     "rewarded": {
-      "enabled": false,
+      "enabled": "OFF",
       "adUnitIdAndroid": "",
       "adUnitIdIOS": ""
     }
