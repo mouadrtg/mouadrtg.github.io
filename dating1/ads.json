@@ -9,7 +9,7 @@
     },
 
     "banner": {
-      "enabled": "OFF",
+      "enabled": "On",
       "adUnitIdAndroid": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
       "adUnitIdIOS": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx"
     },
