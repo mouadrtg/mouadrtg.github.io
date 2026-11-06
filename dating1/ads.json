@@ -3,19 +3,19 @@
 
   "admob": {
     "appOpen": {
-      "enabled": "ON",
+      "enabled": "OFF",
       "adUnitIdAndroid": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
       "adUnitIdIOS": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx"
     },
 
     "banner": {
-      "enabled": "ON",
+      "enabled": "OFF",
       "adUnitIdAndroid": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
       "adUnitIdIOS": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx"
     },
 
     "interstitial": {
-      "enabled": "ON",
+      "enabled": "OFF",
       "adUnitIdAndroid": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
       "adUnitIdIOS": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
       "showEvery": 5
